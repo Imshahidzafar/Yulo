@@ -41,7 +41,7 @@
 
 
     var firebaseConfig = {
-        apiKey: "AIzaSyDeFvP6X8Twx8UnrFIrV5C2oZzMZ9Fc53U",
+        apiKey: "",
         authDomain: "leukeapp.firebaseapp.com",
         databaseURL: "https://leukeapp.firebaseio.com",
         projectId: "leukeapp",
